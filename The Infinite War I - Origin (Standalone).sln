@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ADD4D4A6-DBFC-9A66-E322-87B352F19962}") = "The Infinite War I - Origin (Standalone)", "Assembly-CSharp-firstpass.csproj", "{638CDD41-58E7-BAC1-C1C6-12B572415E20}"
+EndProject
+Project("{ADD4D4A6-DBFC-9A66-E322-87B352F19962}") = "The Infinite War I - Origin (Standalone)", "Assembly-CSharp.csproj", "{EBB42361-A47C-4B08-05EC-9EBDC65D313A}"
+EndProject
+Project("{ADD4D4A6-DBFC-9A66-E322-87B352F19962}") = "The Infinite War I - Origin (Standalone)", "Assembly-CSharp-Editor.csproj", "{C261C8DD-8096-E595-34F2-98B82C175848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638CDD41-58E7-BAC1-C1C6-12B572415E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638CDD41-58E7-BAC1-C1C6-12B572415E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638CDD41-58E7-BAC1-C1C6-12B572415E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638CDD41-58E7-BAC1-C1C6-12B572415E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB42361-A47C-4B08-05EC-9EBDC65D313A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB42361-A47C-4B08-05EC-9EBDC65D313A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB42361-A47C-4B08-05EC-9EBDC65D313A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB42361-A47C-4B08-05EC-9EBDC65D313A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C261C8DD-8096-E595-34F2-98B82C175848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C261C8DD-8096-E595-34F2-98B82C175848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C261C8DD-8096-E595-34F2-98B82C175848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C261C8DD-8096-E595-34F2-98B82C175848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
